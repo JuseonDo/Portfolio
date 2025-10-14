@@ -18,7 +18,7 @@
       "status": "published",
       "description": "A novel approach to control sentence length in compression tasks using instruction-based large language models.",
       "tags": ["NLP", "LLM", "Sentence Compression", "ACL"],
-      "link": "https://aclanthology.org/",
+      "link": "https://aclanthology.org/2024.findings-acl.532/",
       "image": "/paper_images/ACL2024.png"
     },
     {
@@ -30,7 +30,7 @@
       "status": "published",
       "description": "Research on improving retrieval-augmented summarization by considering length diversity in generated summaries.",
       "tags": ["NLP", "RAG", "Summarization", "NAACL"],
-      "link": "https://aclanthology.org/",
+      "link": "https://aclanthology.org/2025.findings-naacl.134/",
       "image": "/paper_images/NAACL2025.png"
     },
     {
