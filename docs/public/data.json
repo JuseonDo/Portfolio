@@ -1,0 +1,84 @@
+{
+  "contact": {
+    "name": "Juseon Do",
+    "title": "AI Researcher & B.S. Student in AI & Mechanical Engineering",
+    "email": "dojuseon@gmail.com",
+    "github": "https://github.com/JuseonDo",
+    "linkedin": "https://www.linkedin.com/in/juseon-do/",
+    "phone": "(82+)10-2211-1604",
+    "location": "Republic of Korea"
+  },
+  "publications": [
+    {
+      "id": 1,
+      "title": "InstructCMP: Length Control in Sentence Compression through Instruction-based Large Language Models",
+      "authors": "Juseon Do, J. Kwon, H. Kamigaito, and M. Okumura",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2024",
+      "year": "2024",
+      "status": "published",
+      "description": "A novel approach to control sentence length in compression tasks using instruction-based large language models.",
+      "tags": ["NLP", "LLM", "Sentence Compression", "ACL"],
+      "link": "https://aclanthology.org/",
+      "image": "/paper_images/ACL2024.png"
+    },
+    {
+      "id": 2,
+      "title": "Considering Length Diversity in Retrieval-Augmented Summarization",
+      "authors": "Juseon Do, J. Hwang, J. Kwon, H. Kamigaito, and M. Okumura",
+      "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+      "year": "2025",
+      "status": "published",
+      "description": "Research on improving retrieval-augmented summarization by considering length diversity in generated summaries.",
+      "tags": ["NLP", "RAG", "Summarization", "NAACL"],
+      "link": "https://aclanthology.org/",
+      "image": "/paper_images/NAACL2025.png"
+    },
+    {
+      "id": 3,
+      "title": "Beyond Sampling: Self-sorting for Long-context Ranking",
+      "authors": "Juseon Do, S. Han, J. Kwon, H. Kamigaito, K. Hayashi, and T. Watanabe",
+      "venue": "Under Review",
+      "year": "2024",
+      "status": "under_review",
+      "description": "Novel approach to long-context ranking using self-sorting mechanisms beyond traditional sampling methods.",
+      "tags": ["NLP", "LLM", "Ranking", "Long-context"],
+      "link": null
+    },
+    {
+      "id": 4,
+      "title": "ConRAS: Contrastive In-context Learning Framework for Retrieval-Augmented Summarization",
+      "authors": "Juseon Do, S. Han, H. Kim, J. Kwon, H. Kamigaito, and M. Okumura",
+      "venue": "Under Review",
+      "year": "2024",
+      "status": "under_review",
+      "description": "Contrastive in-context learning framework for improving retrieval-augmented summarization performance.",
+      "tags": ["NLP", "RAG", "Contrastive Learning", "Summarization"],
+      "link": null
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Undergraduate AI Researcher",
+      "organization": "Chungnam National University",
+      "location": "Daejeon, Republic of Korea",
+      "period": "Oct. 2023 - Present",
+      "description": "Conducting research in Natural Language Processing, focusing on Large Language Models, Retrieval-Augmented Generation, and Summarization."
+    },
+    {
+      "id": 2,
+      "title": "Research Intern",
+      "organization": "National Institute of Advanced Industrial Science and Technology (AIST)",
+      "location": "Tokyo, Japan",
+      "period": "Jun. 2024 - Aug. 2024",
+      "description": "Participated in AI research projects at one of Japan's leading research institutions."
+    }
+  ],
+  "education": {
+    "degree": "B.S. in Artificial Intelligence & Mechanical Engineering",
+    "major": "Artificial Intelligence & Mechanical Engineering",
+    "school": "Chungnam National University",
+    "period": "Mar. 2019 - Feb. 2026 (Expected)",
+    "note": "Included military service (Dec. 2020 - Jun. 2022)"
+  }
+}
