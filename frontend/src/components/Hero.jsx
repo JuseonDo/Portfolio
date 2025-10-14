@@ -77,6 +77,11 @@ const Hero = ({ contact }) => {
               LinkedIn
             </a>
           )}
+          {contact?.aclanthology && (
+            <a href={contact.aclanthology} target="_blank" rel="noopener noreferrer" className="hero-link">
+              ACL Anthology
+            </a>
+          )}
         </motion.div>
       </motion.div>
 
