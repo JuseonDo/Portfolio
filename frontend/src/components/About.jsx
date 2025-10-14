@@ -34,7 +34,7 @@ const About = () => {
               animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
               transition={{ duration: 0.6, delay: 0.3 }}
             >
-              I am an AI researcher specializing in Natural Language Processing, with research interests spanning Large Language Models, Retrieval-Augmented Generation, and Text Summarization, as well as model security and reliability, including membership inference attacks and watermarking.
+              I am an AI researcher focusing on Natural Language Processing, with research interests spanning Large Language Models, Retrieval-Augmented Generation, and Text Summarization, as well as model security and reliability, including membership inference attacks and watermarking.
 My work has been published at leading NLP venues such as ACL and NAACL, where I explore approaches to controllable text generation and summarization.
             </motion.p>
 
