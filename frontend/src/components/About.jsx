@@ -24,7 +24,7 @@ const About = () => {
             animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.8 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            <img src="/Juseon.jpg" alt="Juseon Do" />
+            <img src={`${import.meta.env.BASE_URL}Juseon.jpg`} alt="Juseon Do" />
           </motion.div>
 
           <div className="about-text">

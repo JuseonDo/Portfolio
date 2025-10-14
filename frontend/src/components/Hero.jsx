@@ -34,7 +34,7 @@ const Hero = ({ contact }) => {
           transition={{ duration: 0.8, delay: 0.5 }}
         >
           <a
-            href="/Juseon_CV.pdf"
+            href={`${import.meta.env.BASE_URL}Juseon_CV.pdf`}
             download="Juseon_Do_CV.pdf"
             className="cv-download-btn"
           >

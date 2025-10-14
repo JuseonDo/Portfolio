@@ -49,7 +49,7 @@ const Publications = ({ publications }) => {
                       animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.95 }}
                       transition={{ duration: 0.6, delay: 0.4 + index * 0.2 }}
                     >
-                      <img src={pub.image} alt={pub.title} />
+                      <img src={`${import.meta.env.BASE_URL}${pub.image.startsWith('/') ? pub.image.slice(1) : pub.image}`} alt={pub.title} />
                     </motion.div>
                   )}
                   <div className="publication-content">
