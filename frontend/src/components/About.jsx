@@ -34,9 +34,8 @@ const About = () => {
               animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
               transition={{ duration: 0.6, delay: 0.3 }}
             >
-              I am an AI researcher specializing in Natural Language Processing, with a focus on Large Language Models,
-              Retrieval-Augmented Generation, and Text Summarization. My research has been published at top-tier conferences
-              including ACL and NAACL, where I explore novel approaches to controllable text generation and summarization tasks.
+              I am an AI researcher specializing in Natural Language Processing, with research interests spanning Large Language Models, Retrieval-Augmented Generation, and Text Summarization, as well as model security and reliability, including membership inference attacks and watermarking.
+My work has been published at leading NLP venues such as ACL and NAACL, where I explore approaches to controllable text generation and summarization.
             </motion.p>
 
             <motion.p
@@ -46,9 +45,8 @@ const About = () => {
               transition={{ duration: 0.6, delay: 0.4 }}
               style={{ marginTop: '1.5rem' }}
             >
-              I have conducted research at Chungnam National University and completed a research internship at Japan's National
-              Institute of Advanced Industrial Science and Technology (AIST). I will be pursuing a Master's degree starting in
-              2026 and am actively seeking research internship opportunities in NLP and LLM applications.
+              I have conducted research at Chungnam National University and completed a research internship at Japan's National Institute of Advanced Industrial Science and Technology (AIST).
+I will begin my Master's studies in 2026 and am <b>currently seeking research internship opportunities</b> in NLP, LLM applications, and trustworthy AI.
             </motion.p>
           </div>
         </div>
