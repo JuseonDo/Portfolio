@@ -18,8 +18,7 @@ const Skills = () => {
   ];
 
   const academicService = [
-    'Reviewer: AAAI 2026',
-    'Reviewer: ACL ARR 2025 October'
+    'Reviewer: AAAI 2026'
   ];
 
   return (
